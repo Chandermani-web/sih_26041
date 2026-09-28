@@ -1,0 +1,6 @@
+{
+  "name": "AR-SAFE — Jharkhand Mining & Manufacturing Safety Simulator",
+  "description": "AR-Based Industrial Safety Training Simulator with ARCore camera tracking, localized safety modules, rule-based scoring engine, and digital certification for Jharkhand workers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
